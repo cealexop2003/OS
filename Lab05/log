@@ -1,0 +1,13 @@
+/home/cealexop/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'source.txt': No such file or directory
+sp: command not found
+cp: cannot stat 'source.txt': No such file or directory
